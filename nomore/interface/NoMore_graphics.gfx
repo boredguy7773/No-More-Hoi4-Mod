@@ -1,0 +1,5 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_No_More_Bookmark"
+		texturefile = "gfx/interface/NoMore_2020.dds"
+	}
