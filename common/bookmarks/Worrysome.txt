@@ -24,19 +24,17 @@ bookmarks = {
 		}
 
 		# minors from DLC ####
-		"CAN"={
+		
+		"IRE"={
 			minor = yes
-			history = "CAN_BLITZKRIEG_DESC"
+			history = "IRE_NMB_DESC_LOC"
 			ideology = democratic
 			version = base_game
-			ideas = {
-				CAN_great_depression_1
-				CAN_conscription_crisis
-			}
+			ideas = { }
 			focuses = {
-				CAN_skewer_the_eagle
-				CAN_north_american_alliance
-				CAN_join_comintern
+				army_effort
+				naval_effort
+				industrial_effort
 			}
 		}
 
