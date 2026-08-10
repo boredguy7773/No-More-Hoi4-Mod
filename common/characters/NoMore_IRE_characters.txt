@@ -9,7 +9,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = conservatism
+            ideology = socialism
             desc = IRE_micheal_higgins_desc
             traits = { }
             expire = "2025.11.11"
