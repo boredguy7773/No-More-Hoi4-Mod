@@ -1,0 +1,27 @@
+focus_tree = {
+	id = ireland_focus
+
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = IRE
+		}
+	}
+
+	default = no
+
+	continuous_focus_position = { x = 200 y = 30 }
+
+	focus = {
+		id = IRE_national_unity
+		icon = GFX_focus_generic_national_unity
+		x = 0
+		y = 0
+		cost = 10
+		available = { always = yes }
+		completion_reward = {
+			add_political_power = 50
+		}
+	}
+}

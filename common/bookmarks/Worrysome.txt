@@ -8,6 +8,7 @@ bookmarks = {
 		filters = { new_content continent }
 	
 		ENG = {
+			minor = no
 			history = ENG_NMB_DESC_LOC
 			ideology = democratic
 			version = base_game
@@ -30,7 +31,6 @@ bookmarks = {
 			history = "IRE_NMB_DESC_LOC"
 			ideology = democratic
 			version = base_game
-			ideas = { }
 			focuses = {
 				army_effort
 				naval_effort
