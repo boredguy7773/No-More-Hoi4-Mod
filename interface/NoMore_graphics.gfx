@@ -3,3 +3,8 @@ spriteTypes = {
 		name = "GFX_No_More_Bookmark"
 		texturefile = "gfx/interface/NoMore_2020.dds"
 	}
+	spriteType = {
+		name = "GFX_NoMore_second_leader_icon"
+		texturefile = "gfx/interface/nomore_second_leader_icon.dds"
+	}
+}

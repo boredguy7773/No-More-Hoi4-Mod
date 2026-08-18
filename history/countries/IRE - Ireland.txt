@@ -15,6 +15,7 @@ set_technology = {
 set_convoys = 10
 
 recruit_character = IRE_micheal_higgins
+recruit_character = IRE_leo_varadkar
 
 1939.1.1 = {
 
@@ -90,4 +91,5 @@ set_popularities = {
 
 2019.12.31 = {
 	promote_character = IRE_micheal_higgins
+	activate_advisor = ire_leo_varadkar_advisor
 }

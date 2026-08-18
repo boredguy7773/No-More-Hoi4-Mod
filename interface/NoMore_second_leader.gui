@@ -1,0 +1,27 @@
+guiTypes = {
+	containerWindowType = {
+		name = "second_leader_politics_window"
+		position = { x = 155 y = 245 }
+		size = { width = 40 height = 40 }
+
+		buttonType = {
+			name = "second_leader_button_politics"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_NoMore_second_leader_icon"
+			tooltip = IRE_leo_varadkar_advisor_NAME
+		}
+	}
+##
+	containerWindowType = {
+		name = "second_leader_diplomacy_window"
+		position = { x = 118 y = 255 }
+		size = { width = 40 height = 40 }
+
+		buttonType = {
+			name = "second_leader_button_diplomacy"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_NoMore_second_leader_icon"
+			tooltip = IRE_leo_varadkar_advisor_NAME
+		}
+	}
+}

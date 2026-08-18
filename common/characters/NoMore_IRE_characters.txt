@@ -15,4 +15,28 @@ characters = {
             expire = "2025.11.11"
         }
     }
+
+    IRE_leo_varadkar = {
+        name = "Leo Varadkar"
+
+        portraits = {
+            civilian = {
+                large = "GFX_IRE_leo_varadkar"
+            }
+        }
+
+        advisor = {
+            slot = head_of_government
+            idea_token = ire_leo_varadkar_advisor
+            name = IRE_leo_varadkar_advisor_NAME
+            desc = IRE_leo_varadkar_advisor_DESC
+            ledger = civilian
+            can_be_fired = no
+            traits = { }
+            available = { always = yes }
+            ai_will_do = {
+                factor = 1
+            }
+        }
+    }
 }
