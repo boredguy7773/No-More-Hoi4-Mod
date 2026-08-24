@@ -34,3 +34,11 @@
  IRE:0 "Ireland"
  IRE_DEF:0 "Ireland"
  IRE_ADJ:0 "Irish"
+ 
+ ETH:0 "Ethiopia"
+ ETH_DEF:0 "Ethiopia"
+ ETH_ADJ:0 "Ethiopian"
+ 
+ CAN:0 "Canada"
+ CAN_DEF:0 "Canada"
+ CAN_ADJ:0 "Canadian"
