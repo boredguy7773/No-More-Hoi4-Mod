@@ -16,5 +16,14 @@ spriteTypes = {
     spriteType = {
         name = "GFX_IRE_leo_varadkar"
         texturefile = "gfx/leaders/IRE/Leo_Varadkar.dds"
+        legacy_lazy_load = no
+    }
+}
+
+spriteTypes = {
+    spriteType = {
+        name = "GFX_IRE_leo_varadkar_icon"
+        texturefile = "gfx/leaders/IRE/Leo_Varadkar_icon.dds"
+        legacy_lazy_load = no
     }
 }
