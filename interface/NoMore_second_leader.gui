@@ -24,4 +24,30 @@ guiTypes = {
 			tooltip = IRE_leo_varadkar_advisor_NAME
 		}
 	}
+
+	containerWindowType = {
+		name = "second_leader_politics_window_ENG"
+		position = { x = 155 y = 245 }
+		size = { width = 40 height = 40 }
+
+		buttonType = {
+			name = "second_leader_button_politics_ENG"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_NoMore_second_leader_icon"
+			tooltip = ENG_queen_elizabeth_advisor_NAME
+		}
+	}
+
+	containerWindowType = {
+		name = "second_leader_diplomacy_window_ENG"
+		position = { x = 118 y = 155 }
+		size = { width = 40 height = 40 }
+
+		buttonType = {
+			name = "second_leader_button_diplomacy_ENG"
+			position = { x = 3 y = 103 }
+			quadTextureSprite = "GFX_NoMore_second_leader_icon"
+			tooltip = ENG_queen_elizabeth_advisor_NAME
+		}
+	}
 }

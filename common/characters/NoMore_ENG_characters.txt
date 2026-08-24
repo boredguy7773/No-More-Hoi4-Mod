@@ -15,6 +15,23 @@ characters = {
             expire = "2022.7.7"
         }
     }
+
+    ENG_queen_elizabeth = {
+        name = ENG_queen_elizabeth
+
+        portraits = {
+            civilian = {
+                small = "GFX_ENG_queen_elizabeth"
+            }
+        }
+
+        gender = female
+
+        advisor = {
+            slot = head_of_government
+            idea_token = eng_queen_elizabeth_advisor
+        }
+    }
 }
 
 

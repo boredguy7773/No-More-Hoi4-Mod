@@ -14,7 +14,7 @@ focus_tree = {
 	continuous_focus_position = { x = 200 y = 30 }
 
 	focus = {
-		id = IRE_national_unity
+		id = IRE_irish_crossroads
 		icon = GFX_focus_generic_national_unity
 		x = 0
 		y = 0

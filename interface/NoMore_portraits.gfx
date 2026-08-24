@@ -27,3 +27,11 @@ spriteTypes = {
         legacy_lazy_load = no
     }
 }
+
+spriteTypes = {
+    spriteType = {
+        name = "GFX_ENG_queen_elizabeth"
+        texturefile = "gfx/leaders/ENG/Queen_Elizabeth.dds"
+        legacy_lazy_load = no
+    }
+}
