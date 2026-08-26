@@ -1,0 +1,20 @@
+characters = {
+    GER_angela_merkel = {
+        name = "Angela Merkel"
+
+        portraits = {
+            civilian = {
+                large = "GFX_GER_angela_merkel"
+            }
+        }
+
+        gender = female
+
+        country_leader = {
+            ideology = conservatism
+            desc = GER_angela_merkel_desc
+            traits = { }
+            expire = "2021.12.8"
+        }
+    }
+}

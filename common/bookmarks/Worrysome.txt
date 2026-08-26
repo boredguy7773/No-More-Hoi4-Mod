@@ -24,6 +24,13 @@ bookmarks = {
 			}
 		}
 
+		GER = {
+			minor = no
+			history = GER_NMB_DESC_LOC
+			ideology = democratic
+			version = base_game
+		}
+
 		# minors from DLC ####
 		
 		"IRE"={

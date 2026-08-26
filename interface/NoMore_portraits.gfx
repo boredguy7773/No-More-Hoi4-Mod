@@ -35,3 +35,10 @@ spriteTypes = {
         legacy_lazy_load = no
     }
 }
+
+spriteTypes = {
+    spriteType = {
+        name = "GFX_GER_angela_merkel"
+        texturefile = "gfx/leaders/GER/Angela_Merkel.dds"
+    }
+}
