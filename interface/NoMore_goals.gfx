@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_IRE_irish_crossroads"
+		texturefile = "gfx/interface/goals/IRE_irish_crossroads.dds"
+	}
+}

@@ -11,17 +11,18 @@ focus_tree = {
 
 	default = no
 
-	continuous_focus_position = { x = 200 y = 30 }
+	continuous_focus_position = { x = 2000 y = 2000 }
 
 	focus = {
 		id = IRE_irish_crossroads
-		icon = GFX_focus_generic_national_unity
-		x = 0
+		icon = GFX_IRE_irish_crossroads
+		x = 10
 		y = 0
 		cost = 10
 		available = { always = yes }
 		completion_reward = {
 			add_political_power = 50
+			
 		}
 	}
 }
